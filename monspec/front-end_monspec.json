@@ -2,7 +2,7 @@
     "front-end" : {
         "etype" : "SERVICE",
         "name" : "Front-End Service",
-        "owner" : "TBD",
+        "owner" : "Ken",
         "environments" : {
             "Staging" : {
                 "tags" : [
